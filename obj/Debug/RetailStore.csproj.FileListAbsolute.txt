@@ -1,0 +1,7 @@
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\bin\Debug\RetailStore.exe.config
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\bin\Debug\RetailStore.exe
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\bin\Debug\RetailStore.pdb
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\obj\Debug\RetailStore.csprojResolveAssemblyReference.cache
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\obj\Debug\RetailStore.csproj.CoreCompileInputs.cache
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\obj\Debug\RetailStore.exe
+G:\Pratik\Coding Practice\MediaOcean Assignement\RetailStore\RetailStore\obj\Debug\RetailStore.pdb
